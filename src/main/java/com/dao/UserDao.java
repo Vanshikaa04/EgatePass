@@ -17,7 +17,7 @@ public class UserDao {
 		Connection con = null;
 		try {
 			String driver="com.mysql.cj.jdbc.Driver";
-			String url="jdbc:mysql://localhost:3307/egate";
+			String url="jdbc:mysql://localhost:3307/egatee";
 			String userName="root";
 			String password="vanshika";
 			Class.forName(driver);
